@@ -1,0 +1,20 @@
+# Review: "A visually stunning take on the classic tale, with an engaging performance by Charlie Hunnam."
+# Sentiment: Positive
+# Review: "The plot felt rushed, and the character development was lacking."
+# Sentiment: Negative
+# Review: "Action-packed and thrilling! A fresh spin on the Arthurian legend that keeps you on the edge of your seat."
+# Sentiment: Positive
+# Review: "I was really disappointed with King Arthur: Legend of the Sword. The story was confusing and hard to follow. The characters were not interesting, and I didn't care about what happened to them. I expected more action and excitement."
+# Sentiment: Negative
+# Review: "Great choreography and impressive special effects! An entertaining adventure for fans of epic fantasies."
+# Sentiment: Positive
+# Review: "Too much style over substance; it ultimately feels like a missed opportunity."
+# Sentiment: Negative
+# Review: "A fun, modern take on the Arthurian story that delivers both laughs and excitement."
+# Sentiment: Positive
+# Review: "I did not like King Arthur: Legend of the Sword. The acting was not good, and the dialogue was awkward. It was too long, and I kept checking my watch. I hoped for a great adventure, but it was just a mess."
+# Sentiment: Negative
+# Review: "An adventurous ride with a unique blend of action and myth. Loved it!"
+# Sentiment: Positive
+# Review: "That is so bad and so borind"
+# Sentiment: Negative
